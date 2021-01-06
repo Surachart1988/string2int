@@ -1,0 +1,7 @@
+D:\workspace\string2int\string2int\bin\Debug\string2int.exe.config
+D:\workspace\string2int\string2int\bin\Debug\string2int.exe
+D:\workspace\string2int\string2int\bin\Debug\string2int.pdb
+D:\workspace\string2int\string2int\obj\Debug\string2int.csprojAssemblyReference.cache
+D:\workspace\string2int\string2int\obj\Debug\string2int.csproj.CoreCompileInputs.cache
+D:\workspace\string2int\string2int\obj\Debug\string2int.exe
+D:\workspace\string2int\string2int\obj\Debug\string2int.pdb
